@@ -1,3 +1,4 @@
+print("Hi Im learning git")
 graph = {'S': [('A', 1), ('B', 4), ('D', 5)],
          'A': [('C', 8)],
          'B': [('D', 2)],
